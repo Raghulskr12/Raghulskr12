@@ -1,20 +1,110 @@
-Backend Developer | 5x Hackathon Winner
----------------------------------------
+<h1 align="center">Hi 👋, I'm Raghul Senthil</h1>
 
-🥉 2nd Runner-Up – ABB Hackathon
+<h3 align="center">
+Backend Developer • AI Enthusiast • Hackathon Winner
+</h3>
 
-🥈 Runner-Up – HACK THE HORIZON (IEEE)
-
-🥉 2nd Runner-Up – TECHNOVA (CIT)
-
-🏅 Thematic Winner – Tamil Nadu Police Cyber Hackathon
-
-🌟 Special Prize Winner – Sakthi Hackathon 1.0
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
+<p align="center">
+Building scalable backend systems, AI-powered products, and solutions that solve real-world problems.
 </p>
 
-### Socials
+<p align="center">
+  <a href="https://github.com/Raghulskr12">
+    <img src="https://komarev.com/ghpvc/?username=Raghulskr12&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://www.github.com/Raghulskr12 " target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/raghul12s" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+---
+
+## 🚀 About Me
+
+- 🎓 Engineering Student
+- 💼 Backend Developer focused on **Spring Boot, APIs & Microservices**
+- 🤖 Interested in **AI, Machine Learning & Computer Vision**
+- 🏆 5× Hackathon Winner
+- 📚 Consistent DSA & System Design Learner
+- 🌱 Currently exploring **Cloud & Distributed Systems**
+
+---
+
+## 🏅 Achievements
+
+| Achievement | Event |
+|------------|--------|
+| 🥈 Runner-Up | HACK THE HORIZON (IEEE) |
+| 🥉 2nd Runner-Up | TECHNOVA (CIT) |
+| 🥉 2nd Runner-Up | ABB Hackathon |
+| 🏅 Thematic Winner | Tamil Nadu Police Cyber Hackathon |
+| 🌟 Special Prize Winner | Sakthi Hackathon 1.0 |
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,cs,cpp,c,python,js" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,dotnet,fastapi" />
+</p>
+
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
+
+### Tools & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=git,docker,aws,vscode,linux" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Smart Face Attendance System
+AI-powered attendance system using RetinaFace, ArcFace, FAISS, FastAPI, and React.
+
+### 🔹 LAWiD
+GenAI-powered legal assistant designed to simplify legal information retrieval.
+
+### 🔹 ParkSmart
+Smart parking solution developed during the Tamil Nadu Police Cyber Hackathon.
+
+### 🔹 NCO-AI
+Semantic search engine built with SBERT and FAISS.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Raghulskr12&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghulskr12&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghulskr12&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://github.com/Raghulskr12">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://linkedin.com/in/raghul12s">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+---
+
+<p align="center">
+<i>"Build. Learn. Improve. Repeat."</i>
+</p>
